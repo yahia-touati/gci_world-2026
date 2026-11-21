@@ -1,0 +1,27 @@
+# Data files (large datasets)
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.pkl
+*.zip
+*.tar.gz
+*.joblib
+
+venv/
+.venv/
+env/
+.env
+
+__pycache__/
+*.py[cod]
+*.egg_info/
+bulid/
+dist/
+
+.ipynb_checkpoints/
+
+Thumbs.db
+*~
+*.swp
+
